@@ -1,4 +1,4 @@
-package dorian.codes.contacts.repository.write.model
+package dorian.codes.contacts.write.model.repository
 
 import org.springframework.data.repository.CrudRepository
 import org.springframework.stereotype.Repository
